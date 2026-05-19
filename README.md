@@ -1,4 +1,4 @@
-To play, click on "FIve Nights at AHS" and then Press "view raw".
+To play, click on "Five Nights at AHS" and then Press "view raw".
 Once downloaded, unzip the file.
-Once extracted, open the file saying "open to play"
+Once extracted/unzipped, open the file saying "open to play"
 Enjoy!
